@@ -1,4 +1,4 @@
-l[logo](https://github.com/yogeshwarghule/yogeshwarghule/blob/main/yogs.png)
+l [logo](https://github.com/yogeshwarghule/yogeshwarghule/blob/main/yogs.png)
 <h1 align="center">Hi 👋, I'm Yogeshwar Ghule</h1>
 <h3 align="center">A Curious AWS-DevOps Engineer from India</h3>
 
