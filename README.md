@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/yogeshwarghule/yogeshwarghule/blob/main/Github%20Banner.png)
+![logo](https://github.com/yogeshwarghule/yogeshwarghule/blob/main/png%20kunal.jpg))
 <h1 align="center">Hi 👋, I'm Yogeshwar Ghule</h1>
 <h3 align="center">A Curious AWS-DevOps Engineer from India</h3>
 
