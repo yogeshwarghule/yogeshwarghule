@@ -1,8 +1,7 @@
+<h1 align="left">Hi 👋, I'm Yogeshwar Ghule</h1>
+<h3 align="left"> A Curious AWS-DevOps Engineer from India </h3>
 
-
-![logo](https://github.com/yogeshwarghule/yogeshwarghule/blob/main/png%20kunal.jpg))
-<h1 align="center">Hi 👋, I'm Yogeshwar Ghule</h1>
-<h3 align="center">A Curious AWS-DevOps Engineer from India</h3>
+![logo](https://github.com/yogeshwarghule/yogeshwarghule/blob/main/png%20kunal.jpg)
 
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
