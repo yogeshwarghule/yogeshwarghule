@@ -65,7 +65,7 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshwarghule&show_icons=true&locale=en&layout=compact&theme=dark" alt="yogeshwarghule" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshwarghule&show_icons=true&locale=en&layout=compact&theme=dark" alt="yogeshwarghule" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yogeshwarghule&show_icons=true&locale=en&layout=compact&theme=dark" alt="yogeshwarghule" /></p>
 
 
 <p align='center'>
