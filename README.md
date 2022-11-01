@@ -17,7 +17,7 @@ I am a Technology Architect in the Cloud and DevOps space. I am energetic and ge
 - 👨‍💻 You can also check out My [Portfolio](http://yogeshwarghule.com/)
 - 👨‍💻 Move 🌐 to ☁️
 - ⛷️ I'm currently working with Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub,Linux-Ubuntu, Ansible, Bash, Shell
-- ✍️ Regularly writing technical blogs on  [DevOps and Tech Updates](https://yogeshwarz.hashnode.dev/)
+- ✍️ Regularly writing technical blogs on  [DevOps and Tech Updates](https://yogeshwarghule.hashnode.dev/)
 - 📫 How to reach me **yghule2001@gmail.com**
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 👯 And Many more...
